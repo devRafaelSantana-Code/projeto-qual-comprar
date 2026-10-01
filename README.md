@@ -1,9 +1,13 @@
 # 🌤️ Qual Comprar? — Portal Editorial
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5">
+
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3">
+
   <img src="https://img.shields.io/badge/Google%20Fonts-Open%20Sans-4285F4" alt="Google Fonts">
+
 </p>
 
 ## 📌 Sobre o Projeto
@@ -15,6 +19,14 @@ O projeto foi desenvolvido com base nos desafios práticos propostos pela plataf
 O conteúdo aborda o impacto de equipamentos como **geladeiras e chuveiros elétricos** no consumo de energia, relacionando conceitos de potência elétrica, consumo em kWh e custos na fatura de eletricidade.
 
 Além do conteúdo editorial, o projeto procura demonstrar boas práticas de **HTML semântico, CSS3, tipografia, organização visual e Box Model**.
+
+---
+
+## 🌐 Demonstração Online
+
+Acesse a versão publicada do projeto através da Vercel:
+
+**🔗 https://projeto-qual-comprar.vercel.app/**
 
 ---
 
@@ -101,6 +113,7 @@ Uma estrutura possível para o projeto é:
 
 ```text
 projeto-qual-comprar/
+
 │
 ├── index.html
 ├── style.css
@@ -161,3 +174,9 @@ _Estudante de Engenharia da Computação, com foco em Interfaces Web Estruturada
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins **educacionais e de portefólio**.
+
+---
+
+<p align="center">
+  Projeto desenvolvido para fins educacionais e para consolidação de conhecimentos em HTML5, CSS3, CSS Grid, Flexbox e desenvolvimento de interfaces responsivas.
+</p>
